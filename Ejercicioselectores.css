@@ -1,0 +1,17 @@
+.encabezado {
+    Color: blue;
+    font-size: 50px;
+}
+
+li {
+    color:blueviolet;
+}
+
+#primer-elemento {
+    color: red;
+    font-size: 36px
+}
+
+#primera-tienda {
+    color: red;
+}
